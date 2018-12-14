@@ -4,6 +4,21 @@
 
 ## Build Setup
 
+ 本地打开方法：下载node.js后
+          通过cmd命令行工具 cd Treval
+          npm install  （下载相关依赖）
+         运行  npm run dev 成功后在浏览器打开：http://localhost:8080
+
+
+
+
+
+
+
+
+
+
+
 ``` bash
 # install dependencies
 npm install
